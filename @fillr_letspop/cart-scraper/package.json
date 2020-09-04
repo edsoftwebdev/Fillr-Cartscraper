@@ -1,0 +1,63 @@
+{
+  "_from": "@fillr_letspop/cart-scraper@^1.3.42",
+  "_id": "@fillr_letspop/cart-scraper@1.3.42",
+  "_inBundle": false,
+  "_integrity": "sha512-LCYvoo00oGttfws+xr8oPhypmGOPJbWXHRjgyMI3JpvmE2nm1cwhrOeC4hIj85qx20x59+sWZInCJ8LMYErFEA==",
+  "_location": "/@fillr_letspop/cart-scraper",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@fillr_letspop/cart-scraper@^1.3.42",
+    "name": "@fillr_letspop/cart-scraper",
+    "escapedName": "@fillr_letspop%2fcart-scraper",
+    "scope": "@fillr_letspop",
+    "rawSpec": "^1.3.42",
+    "saveSpec": null,
+    "fetchSpec": "^1.3.42"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@fillr_letspop/cart-scraper/-/cart-scraper-1.3.42.tgz",
+  "_shasum": "f9170cbc2978b1db3ff0bfe0515367e4cb1f9430",
+  "_spec": "@fillr_letspop/cart-scraper@^1.3.42",
+  "_where": "E:\\Chromium Exebuild",
+  "author": {
+    "name": "Fillr"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "JS Library For Fillr Cart Scraper",
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/preset-env": "^7.4.1",
+    "babel-brunch": "^7",
+    "brunch": "^2.10.17",
+    "jasmine-core": "^2.6.4",
+    "js-wrap-brunch": "0.0.1",
+    "karma": "^4.0.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-fixture": "^0.2.6",
+    "karma-html2js-preprocessor": "^1.1.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-mocha-reporter": "^2.2.3",
+    "puppeteer": "^1.7.0",
+    "uglify-js-brunch": "~2.0"
+  },
+  "homepage": "https://www.fillr.com",
+  "keywords": [
+    "cart-scraper"
+  ],
+  "license": "Copyright Pop Tech",
+  "main": "index.js",
+  "name": "@fillr_letspop/cart-scraper",
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {
+    "test": "./script/build-scraper"
+  },
+  "version": "1.3.42"
+}
